@@ -77,3 +77,5 @@ _\* Ubuntu 16 and Debian 8 no longer supported since Pterodactyl does not active
 No Support.
 The script has been tested many times without any bug fixes, however they can still occur.
 If you find errors, feel free to open an "Issue" on GitHub.
+
+<img align="right" src="https://komarev.com/ghpvc/?username=PvPMaster001" alt="PvPMaster0001" />
